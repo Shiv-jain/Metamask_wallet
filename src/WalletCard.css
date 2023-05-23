@@ -1,0 +1,18 @@
+.walletcard button { 
+    height: 80px;
+    width: 200px;
+    border-radius: 10px;
+    border:solid 3px whitesmoke;
+    background-color: transparent;
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.walletcard button:hover{
+    position: relative;
+    bottom: 4px;
+    background-color: whitesmoke;
+    color: #282c34;
+    font-size: 20px;
+}
